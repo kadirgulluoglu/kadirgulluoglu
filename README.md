@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Kadir GÜLLÜOĞLU</h1>
 <h3 align="center">A Passionate Flutter Developer!</h3>
-<h3 align="center">🌱 I’m currently learning Swift!</h3>
+<h3 align="center">🌱 I’m currently learning Swift & .Net Web API!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kadirgulluoglu&label=Profile%20views&color=f2cd98&style=flat" alt="kadirgulluoglu" /> </p>
 

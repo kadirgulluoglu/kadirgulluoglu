@@ -5,9 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kadirgulluoglu&label=Profile%20views&color=f2cd98&style=flat" alt="kadirgulluoglu" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirgulluoglu&show_icons=true&theme=dark&locale=en&layout=compact" alt="kadirgulluoglu" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirgulluoglu&show_icons=true&theme=dark&locale=en&layout=compact" alt="kadirgulluoglu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirgulluoglu&show_icons=true&theme=dark&locale=en" alt="kadirgulluoglu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirgulluoglu&show_icons=true&theme=dark&locale=en" alt="kadirgulluoglu" /></p> -->
 
 
 
